@@ -8,4 +8,6 @@ Unfortunately, you cannot create an account using the Windows on-board tools via
 This means you can implement the code using a startup script in the GPO for computer settings. The account is checked every time the computer starts and if it does not exist, it is created.
 
 Screenshot:
-<img width="587" alt="image" src="https://github.com/user-attachments/assets/4c8dcc06-3628-43b7-a73d-81ce165410b7">
+
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/e4a97061-d587-4898-9225-00adcaf16db9">
+

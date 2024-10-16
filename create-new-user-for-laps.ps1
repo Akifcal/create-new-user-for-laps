@@ -1,4 +1,4 @@
-write-output "Name: create-new-user.ps1"
+write-output "Name: create-new-user-for-laps.ps1"
 write-output "Description: create a new user for laps with temporary random password"
 write-output "Copyright (C) 2024  Ing. Akif Calhan"
 write-output ""

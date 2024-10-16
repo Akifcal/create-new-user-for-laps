@@ -7,3 +7,5 @@ I have created the code to create LAPS account. With this you can create your ow
 Unfortunately, you cannot create an account using the Windows on-board tools via GPO.
 This means you can implement the code using a startup script in the GPO for computer settings. The account is checked every time the computer starts and if it does not exist, it is created.
 
+Screenshot:
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/4c8dcc06-3628-43b7-a73d-81ce165410b7">
